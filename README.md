@@ -1,7 +1,10 @@
 # Backend challenge
 This is a code repository for a Node.js REST API application that handles the following:
+
 ● Search for an artist by name based on the following endpoint artist.search, return all the results for this artist. 
+
 ● Writes the result to a user-supplied CSV filename.
+
 ● The CSV file should include the following information (name, mbid, url, image_small,image)
 
 Steps to follow in order to execute the application: PS:I used node verion:16.14.2
