@@ -1,0 +1,16 @@
+Application name	backend challenge
+API key	1e3f616d20ccb2062251dbedb7d64ab3
+Shared secret	1c7b8d21b9fcf5d9e589b85002be1dd5
+Registered to	Houria-Mami
+
+
+
+
+
+
+
+
+
+
+
+
